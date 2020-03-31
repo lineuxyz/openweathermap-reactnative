@@ -109,6 +109,8 @@ https://github.com/lucasmontano/openweathermap-reactnative
   - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
   - [babel-plugin-root-import](https://github.com/entwicklerstube/babel-plugin-root-import) - Babel plugin to add the opportunity to use import and require with root based paths
   - [eslint-config-airbnb](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
+  - [commitizen-cz-cli](https://github.com/commitizen/cz-cli) - Commitizen is a library to be able to make project commits more organized and much clearer among all developers
+
 
 ---
 
@@ -137,6 +139,10 @@ https://github.com/lucasmontano/openweathermap-reactnative
 - 📌 Push to the branch using `git push origin my-feature`;
 
 ### Step 6
+
+- 💻 After using `git add` use `yarn commit` to commit, this way the commits are much more organized. If you don't want to, you can proceed with `git commit -m`
+
+### Step 7
 
 - 🔃 Create a new pull request
 
